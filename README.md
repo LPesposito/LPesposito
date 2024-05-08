@@ -1,16 +1,18 @@
-### Hi there 👋
+## Opa! Tudo bom?🚀
+### Me chamo Luan, mas pode me chamar de LP😃
 
-<!--
-**LPesposito/LPesposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Atualmente estudando:
 
-Here are some ideas to get you started:
+- **Unreal Engine**
+- **Python**
+- **C++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Imagem Unreal Engine](URL_DA_IMAGEM_UNREAL_ENGINE)
+![Imagem Python](URL_DA_IMAGEM_PYTHON)
+![Imagem C++](URL_DA_IMAGEM_CPP)
+
+## GitHub Stats
+
+![Meus GitHub Stats](https://github-readme-stats.vercel.app/api?username=LPesposito&show_icons=true&theme=merko)
+
+---
