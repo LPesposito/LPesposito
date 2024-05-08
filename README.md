@@ -6,13 +6,11 @@
 - **Unreal Engine**
 - **Python**
 - **C++**
-
-![Imagem Unreal Engine](URL_DA_IMAGEM_UNREAL_ENGINE)
-![Imagem Python](URL_DA_IMAGEM_PYTHON)
-![Imagem C++](URL_DA_IMAGEM_CPP)
+  
+[![My Skills](https://skillicons.dev/icons?i=python,flask,cpp,unreal,html,css,js)](https://skillicons.dev)
 
 ## GitHub Stats
-
-![Meus GitHub Stats](https://github-readme-stats.vercel.app/api?username=LPesposito&show_icons=true&theme=merko)
-
----
+<div>
+  <img src=https://github-readme-stats.vercel.app/api/top-langs?username=LPesposito&show_icons=true&theme=merko>
+  <img src=https://github-readme-stats.vercel.app/api?username=LPesposito&show_icons=true&theme=merko>
+</div>
