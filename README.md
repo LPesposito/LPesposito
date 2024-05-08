@@ -7,9 +7,8 @@
 - **Python**
 - **C++**
   
-[![My Skills](https://skillicons.dev/icons?i=python,flask,cpp,unreal,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,cpp,unreal)](https://skillicons.dev)
 
-## GitHub Stats
 <div>
   <img src=https://github-readme-stats.vercel.app/api/top-langs?username=LPesposito&show_icons=true&theme=merko>
   <img src=https://github-readme-stats.vercel.app/api?username=LPesposito&show_icons=true&theme=merko>
