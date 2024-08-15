@@ -1,5 +1,5 @@
 ## Hey How's it going?🚀
-### I'm called Luan, but you can call me LP😃
+### My name is Luan, but you can call me LP😃
 
 ### Currently studying:
 - Unreal Engine
