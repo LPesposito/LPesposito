@@ -1,5 +1,6 @@
 ## Hey How's it going?🚀
-### My name is Luan, but you can call me LP😃
+### My name is Luan, im from Brazil, and i love tecnology and videogames
+### Currently im coursing IT
 
 ### Currently studying:
 - Unreal Engine
